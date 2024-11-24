@@ -14,19 +14,6 @@ This repository is a collection of powerful, efficient, and professional-grade s
 
 ---
 
-## 📁 Directory Structure
-
-```plaintext
-professional-shellscripts/
-├── automation/        # Scripts for automating repetitive tasks
-├── system-monitoring/ # Tools for monitoring system resources
-├── utilities/         # General-purpose utilities and helpers
-├── backups/           # Backup scripts for safeguarding data
-├── README.md          # Documentation (this file)
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
