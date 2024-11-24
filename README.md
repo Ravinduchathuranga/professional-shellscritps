@@ -38,20 +38,6 @@ This repository is a collection of powerful, efficient, and professional-grade s
    ./path/to/script.sh
    ```
 
-
-## 🛠️ Usage Examples
-
-### Example 1: Automating Backups
-```bash
-./backups/backup.sh /path/to/important/data /path/to/backup/location
-```
-
-### Example 2: System Resource Monitoring
-```bash
-./system-monitoring/cpu-monitor.sh
-```
-
-
 ## 🤝 Contributing
 
 We welcome contributions!  
