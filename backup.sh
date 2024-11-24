@@ -3,4 +3,4 @@
 
 tar cvf /tmp/backups.tar /etc /var
 
-gzip backups.tar
+gzip /tmp/backups.tar
