@@ -4,7 +4,6 @@
 Welcome to **Professional Shellscripts**! 🚀  
 This repository is a collection of powerful, efficient, and professional-grade shell scripts designed to automate tasks, improve productivity, and solve real-world problems.
 
----
 
 ## 🌟 Features
 
