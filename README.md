@@ -24,18 +24,18 @@ This repository is a collection of powerful, efficient, and professional-grade s
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/professional-shellscripts.git
+   git clone https://github.com/Ravinduchathuranga/professional-shellscritps.git
    cd professional-shellscripts
    ```
 
 2. Make scripts executable:
    ```bash
-   chmod +x path/to/script.sh
+   chmod +x pathto/script.sh
    ```
 
 3. Run a script:
    ```bash
-   ./path/to/script.sh
+   ./pathto/script.sh
    ```
 
 ## 🤝 Contributing
