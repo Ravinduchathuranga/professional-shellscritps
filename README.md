@@ -12,7 +12,6 @@ This repository is a collection of powerful, efficient, and professional-grade s
 - **Modularity**: Easy-to-customize scripts for various use cases.
 - **Professional Standards**: Follow best practices for shell scripting.
 
----
 
 ## 🚀 Getting Started
 
@@ -20,6 +19,7 @@ This repository is a collection of powerful, efficient, and professional-grade s
 - A Unix-based operating system (Linux/MacOS)
 - Bash or a similar shell installed
 - Basic knowledge of shell scripting
+
 
 ### Installation
 1. Clone the repository:
@@ -38,7 +38,6 @@ This repository is a collection of powerful, efficient, and professional-grade s
    ./path/to/script.sh
    ```
 
----
 
 ## 🛠️ Usage Examples
 
@@ -52,7 +51,6 @@ This repository is a collection of powerful, efficient, and professional-grade s
 ./system-monitoring/cpu-monitor.sh
 ```
 
----
 
 ## 🤝 Contributing
 
@@ -63,13 +61,11 @@ We welcome contributions!
 4. Push to the branch: `git push origin feature-name`.  
 5. Submit a pull request.
 
----
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 ## 🙋‍♂️ Questions or Feedback?
 
